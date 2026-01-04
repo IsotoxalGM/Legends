@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-people/benjamin-glieben/"}
+{"dg-publish":true,"permalink":"/2-people/benjamin-glieben/","created":"2026-01-04T15:59:58.081-05:00","updated":"2026-01-04T17:07:38.328-05:00"}
 ---
 
 
@@ -8,15 +8,15 @@
 > ![bennyglieben.jpg](/img/user/_meta/_attachments/bennyglieben.jpg)
 
 # Benjamin Glieben
-> [!abstract] Background
->  |
-> ---|---|---|---|
-> **Birth** | June 10, 1948 |**Death** | - - |
-> **Heritage** | Human (M) |**Occupation** | Preternatural Investigator (Retired) |
-> **Age** | 67 (alive) | **Workplace** | - - | 
-> **Eldritch** | [[Wizardry\|Wizardry]] | **Residence** | 3608 W 18th Ave |
 
-## Bio
+|     |     |     |     |
+| --- | --- | --- | --- |
+| **Birth** | June 10, 1948 |**Death** | - - |
+| **Heritage** | Human (M) |**Occupation** | Preternatural Investigator (Retired) |
+| **Age** | 67 (alive) | **Workplace** | - - | 
+| **Eldritch** | [[Wizardry\|Wizardry]] | **Residence** | 3608 W 18th Ave |
+|     |     |     |     |
+
 After losing both legs in a savage rogue vampire attack in 2009, Benny was forced into retirement and currently resides in an assisted-living community on the property next door to [[3 - Places/Gunter Glieben & Associates\|Gunter Glieben & Associates]], an agency he found and occasionally still consults for. 
 
 #### Haunts and Hangouts
