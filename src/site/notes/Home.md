@@ -6,4 +6,4 @@
 
 [isotoxalvault.netlify.app](https://isotoxalvault.netlify.app)
 
-[[Places/Gunter Glieben & Associates\|Gunter Glieben & Associates]]
+[[3 - Places/Gunter Glieben & Associates\|Gunter Glieben & Associates]]
