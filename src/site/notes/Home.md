@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"created":"2026-01-04T14:35:55.494-05:00","updated":"2026-01-04T17:42:23.881-05:00"}
+{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"created":"2026-01-04T14:35:55.494-05:00","updated":"2026-01-12T10:56:44.542-05:00"}
 ---
 
 
@@ -9,7 +9,8 @@ I am your Architect and Gamemaster. My role is to serve as the bridge between th
 ## Our Games
 > [!abstract] Delphini-verse
 > #### Current Game: 
->  ***[[Campaign - Wulphini/Wulphini\|Wulphini]]***, featuring the characters: [[Bromar\|Bromar]], [[Cobalt\|Cobalt]], [[Klahr\|Klahr]], [[Lou Pohl\|Lou Pohl]], [[Lucky\|Lucky]], and [[Serenity\|Serenity]]
+>  # ***[[Campaign - Wulphini/Wulphini\|Wulphini]]*** 
+>  Featuring the characters: [[Bromar\|Bromar]], [[Cobalt\|Cobalt]], [[Klahr\|Klahr]], [[Lou Pohl\|Lou Pohl]], [[Lucky\|Lucky]], and [[Serenity\|Serenity]]
 >  ##### Previous Games:
 >  Delphini 51, 52, & 53
 >  Solphini
