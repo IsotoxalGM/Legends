@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign-wulphini/wulphini/","created":"2026-01-04T17:46:08.195-05:00","updated":"2026-01-12T11:12:08.127-05:00"}
+{"dg-publish":true,"permalink":"/campaign-wulphini/wulphini/","created":"2026-01-04T17:46:08.195-05:00","updated":"2026-01-12T11:58:18.926-05:00"}
 ---
 
 # Wulphini
@@ -11,6 +11,7 @@
 
 ### Session Prep
 > [!column|no-t]
+>> [!blank]
 >> Chapter 28
 >> 
 
