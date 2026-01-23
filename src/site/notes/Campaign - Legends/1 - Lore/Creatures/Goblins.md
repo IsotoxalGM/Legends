@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign-legends/1-lore/creatures/goblins/","created":"2026-01-22T22:28:05.590-05:00","updated":"2026-01-22T23:40:36.762-05:00"}
+{"dg-publish":true,"permalink":"/campaign-legends/1-lore/creatures/goblins/","created":"2026-01-22T22:28:05.590-05:00","updated":"2026-01-22T23:42:50.553-05:00"}
 ---
 
 # Goblins
@@ -7,16 +7,17 @@
 > [!infobox|wm-sm left]+
 > 
 > ![legend-goblin.png](/img/user/_meta/_attachments/legend-goblin.png)
->> |     |     | 
-> | --- | --- | 
-> | **Creature Type** | Simple Fey |
-> | **Eldritch Type** | [[Wild\|Wild]] (intrinsic), [[Campaign - Legends/1 - Lore/Witchcraft\|Witchcraft]] (rare) |
-> | **Size** | 22 - 38 inches |
-> | **Lifespan** | 45 years |
-> | **Diet** | [[Fey Cuisine\|Fey Cuisine]] |
-> | **Threat Level** | Nuisance  | 
-> | **Weaknesses** | None | 
-> |     |     | 
+
+|       |       | 
+| --- | --- | 
+| **Creature Type** | Simple Fey |
+| **Eldritch Type** | [[Wild\|Wild]] (intrinsic), [[Campaign - Legends/1 - Lore/Witchcraft\|Witchcraft]] (rare) |
+| **Size** | 22 - 38 inches |
+| **Lifespan** | 45 years |
+| **Diet** | [[Fey Cuisine\|Fey Cuisine]] |
+| **Threat Level** | Nuisance  | 
+| **Weaknesses** | None | 
+|     |     | 
 
 ## Description
 Goblins are mischievous, hedonistic, little pranksters that delight in annoying and offending larger folk. Their tricks are rarely intentionally harmful but most goblins don't lose any sleep over causing discomfort, or even injury and death.  Oops. LOL
